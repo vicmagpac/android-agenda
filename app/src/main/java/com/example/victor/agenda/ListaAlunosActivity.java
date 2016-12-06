@@ -28,8 +28,6 @@ public class ListaAlunosActivity extends AppCompatActivity {
                 startActivity(intentVaiProFormulario);
             }
         });
-
-        this.onResume();
     }
 
 
